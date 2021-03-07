@@ -1,0 +1,35 @@
+{
+    "name": "@types/galio-framework-types",
+    "version": "0.7.1",
+    "description": "Custom type declaration for galio-framework",
+    "license": "MIT",
+    "main": "",
+    "types": "index.d.ts",
+    "contributors": [
+        {
+            "name": "Mustafa KURU",
+            "url": "https://github.com/hepter",
+            "githubUsername": "hepter"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hepter/galio-framework-types.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*",
+        "galio-framework": "*"
+    },
+    "keywords": [
+        "android",
+        "ios",
+        "react native",
+        "component library",
+        "ui kit",
+        "galio",
+        "framework",
+        "bootstrap",
+        "types"
+    ]
+}

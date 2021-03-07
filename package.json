@@ -1,17 +1,10 @@
 {
-    "name": "@types/galio-framework-types",
-    "version": "0.7.1",
+    "name": "galio-framework-types",
+    "version": "1.0.1",
     "description": "Custom type declaration for galio-framework",
     "license": "MIT",
     "main": "",
     "types": "index.d.ts",
-    "contributors": [
-        {
-            "name": "Mustafa KURU",
-            "url": "https://github.com/hepter",
-            "githubUsername": "hepter"
-        }
-    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/hepter/galio-framework-types.git"
@@ -21,6 +14,7 @@
         "@types/node": "*",
         "galio-framework": "*"
     },
+    "author": "Mustafa KURU <mustafakuru042@gmail.com>",
     "keywords": [
         "android",
         "ios",
